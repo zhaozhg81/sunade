@@ -5,9 +5,9 @@
  */
 package sunade.stat.general;
 
-import sunade.stat.bet.BET_DataFile;
-import sunade.stat.bet.BET_MultiVariate;
-import sunade.stat.bet.BET_Pairwise;
+import bzz_bet.bet.BET_DataFile;
+import bzz_bet.bet.BET_MultiVariate;
+import bzz_bet.bet.BET_Pairwise;
 
 /**
  *
